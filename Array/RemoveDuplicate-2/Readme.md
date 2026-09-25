@@ -11,4 +11,6 @@
    Will iterate the array from i=1 & j=2 and check for duplicacy
    If an array has an element which appears twice then accept it //arr[i-1]!=arr[j] theni++,arr[i]=arr[j]
    else remove it 
-   
+ ##Complexity:-
+   Time complexity:-O(n)
+   Space Complexity:-O(1)
